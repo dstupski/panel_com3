@@ -1,5 +1,5 @@
 # panel_com3
-## python3 compatible version of VR control functions originally developed by Will Dickson and is found here: https://github.com/iorodeo/panel_comm
+## python3 compatible version of VR control functions originally developed by Seth Budick and functionalized into python by Will Dickson and is found here: https://github.com/iorodeo/panel_comm
 
 ### installation:
 
