@@ -3,20 +3,20 @@
 
 ### installation:
 Navigate to a place to clone the repository 
-'''
+```
 cd ~/Desktop
-'''
+```
 
 then git clone:
-'''
+```
 git clone https://github.com/dstupski/panel_com3.git
-'''
+```
 
 go inside your clone repository and pip3 install:
 
-'''
+```
 pip3 install .
-'''
+```
 
 
 panel_com
