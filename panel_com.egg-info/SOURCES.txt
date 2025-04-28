@@ -1,0 +1,9 @@
+LICENSE
+README
+setup.py
+panel_com/__init__.py
+panel_com/panel_com.py
+panel_com.egg-info/PKG-INFO
+panel_com.egg-info/SOURCES.txt
+panel_com.egg-info/dependency_links.txt
+panel_com.egg-info/top_level.txt
