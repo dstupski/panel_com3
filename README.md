@@ -17,7 +17,12 @@ go inside your clone repository and pip3 install:
 ```
 pip3 install .
 ```
+### runnning the example:
+The Reiser panel controller operates by inserting an SD card preloaded with pattern files (see https://reiserlab.github.io/Modular-LED-Display/G3/)
 
+This example loads a pattern and rotates it across the arena.  Assumes pattern has at least 48 "x frames" 
+
+TODO: PATTERN REPO FOR TESTING
 
 panel_com
 =============

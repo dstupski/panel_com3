@@ -1,8 +1,8 @@
 # Example using panel_com
 from panel_com.panel_com import PanelCom
 import time
-#import panel_com as pc
-print("i go this far")
+
+###Requires and SD card with a pattern file to be in the controller
 sleep_t = 15.0
 com_port_num = 0
 pattern_id = 3
@@ -14,7 +14,8 @@ ctlr = PanelCom(userport='/dev/ttyUSB0')
 
 ctlr.SetPatternID(pattern_id)
 ctlr.SetGainOffset(gain_x, offset_x, gain_y, offset_y)
-for i in range(96):
+
+for i in range(48):
     ctlr.SetPositions(i, 0)
     time.sleep(.1)
 
