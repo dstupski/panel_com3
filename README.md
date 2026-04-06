@@ -5,11 +5,7 @@ Including tests to benchmark systems
 
 ### installation:
 Navigate to a place to clone the repository 
-```
-cd ~/Desktop
-```
 
-then git clone:
 ```
 git clone https://github.com/dstupski/panel_com3.git
 ```
